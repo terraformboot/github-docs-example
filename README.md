@@ -149,6 +149,9 @@ Here are some examples:
 | Cloud | `:cloud:` | :cloud: |
 | Cloud with lighting | `:cloud_with_lighting` | 🌩️ |
 
+[Photo of the pipe character on our board](asset/pipe-chart.jpg)
+
+[Secret Window Hidden Garden](secret-window/hidden-garden.md)
 
 ## External References
 
